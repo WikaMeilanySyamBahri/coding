@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:hint="Please tap mix for speech"
         android:padding="20dp"
-        android:textColor="#0000"
+        android:textColor="#000"
         android:textSize="20sp" />
 
     <ImageView
