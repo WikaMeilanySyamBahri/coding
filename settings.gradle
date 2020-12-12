@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Speec to text and wprd cloud"
